@@ -11,6 +11,8 @@ All code, data, documentation and UI text are in English.
 - If two wiki pages contradict each other, keep both versions and flag the conflict on the site. Do not pick one.
 - Numeric values used by the animation (frames, speeds, angles) come from the wiki when available. Mark any estimated value as `estimated`.
 - Wiki categories are incomplete (e.g. "Tear-modifying items" lists only 9 items). Do not rely on them to decide which items are in scope; read each item's Effects section instead.
+- Secondary source for vocabulary: the modding API docs (https://wofsauge.github.io/IsaacDocs/rep/), enums `TearFlags` and `WeaponType`. They name what the game itself treats as a weapon (`replaces`) or a tear effect (`adds`), but say nothing about how effects combine; behavior still comes from the wiki.
+- Forums (Reddit, Steam) are not a source for rules. Use them only to spot possible wiki errors or to prioritize popular combinations.
 - Game sprites and assets must not be copied into the repository. Graphics are original, "Isaac-style" drawings.
 
 ## Item scope

@@ -148,7 +148,7 @@ id,name,type,scope,category,note,source
 149,Ipecac,passive,in,adds,"Explosive, poisoning, arcing shots. Wiki says ""replaces tears"", but it combines with other weapons as an effect",https://bindingofisaacrebirth.wiki.gg/wiki/Ipecac
 150,Tough Love,passive,in,adds,Chance to fire a tooth (x3.2 damage),https://bindingofisaacrebirth.wiki.gg/wiki/Tough_Love
 151,The Mulligan,passive,in,adds,Chance to spawn Blue Flies on hit,https://bindingofisaacrebirth.wiki.gg/wiki/The_Mulligan
-152,Technology 2,passive,in,replaces,Right eye fires a continuous laser,https://bindingofisaacrebirth.wiki.gg/wiki/Technology_2
+152,Technology 2,passive,in,adds,Right eye fires a continuous laser alongside the tears (not a weapon type in the game's API),https://bindingofisaacrebirth.wiki.gg/wiki/Technology_2
 153,Mutant Spider,passive,in,multiplies,Fires 4 tears at once,https://bindingofisaacrebirth.wiki.gg/wiki/Mutant_Spider
 154,Chemical Peel,passive,out,,Only damage (left eye),https://bindingofisaacrebirth.wiki.gg/wiki/Chemical_Peel
 155,The Peeper,passive,out,,Familiar,https://bindingofisaacrebirth.wiki.gg/wiki/The_Peeper
@@ -225,7 +225,7 @@ id,name,type,scope,category,note,source
 226,Black Lotus,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Black_Lotus
 227,Piggy Bank,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Piggy_Bank
 228,Mom's Perfume,passive,in,adds,Chance of fear tears,https://bindingofisaacrebirth.wiki.gg/wiki/Mom's_Perfume
-229,Monstro's Lung,passive,in,firing,Charged burst of 14 tears,https://bindingofisaacrebirth.wiki.gg/wiki/Monstro's_Lung
+229,Monstro's Lung,passive,in,replaces,Charged burst of 14 tears (a weapon type in the game's API: WEAPON_MONSTROS_LUNGS),https://bindingofisaacrebirth.wiki.gg/wiki/Monstro's_Lung
 230,Abaddon,passive,in,adds,Chance of fear tears,https://bindingofisaacrebirth.wiki.gg/wiki/Abaddon
 231,Ball of Tar,passive,in,adds,Chance of slowing tears,https://bindingofisaacrebirth.wiki.gg/wiki/Ball_of_Tar
 232,Stop Watch,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Stop_Watch
@@ -529,7 +529,7 @@ id,name,type,scope,category,note,source
 530,Death's List,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Death's_List
 531,Haemolacria,passive,in,adds,"Arcing blood tears that burst into smaller tears. Wiki says ""turns tears into"", treated as a tear effect",https://bindingofisaacrebirth.wiki.gg/wiki/Haemolacria
 532,Lachryphagy,passive,in,adds,Tears slow down and burst into more tears,https://bindingofisaacrebirth.wiki.gg/wiki/Lachryphagy
-533,Trisagion,passive,in,replaces,Piercing blasts of light instead of tears (to verify: weapon or tear effect?),https://bindingofisaacrebirth.wiki.gg/wiki/Trisagion
+533,Trisagion,passive,in,adds,Piercing blasts of light (a tear flag in the game's API: TEAR_LASERSHOT),https://bindingofisaacrebirth.wiki.gg/wiki/Trisagion
 534,Schoolbag,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Schoolbag
 535,Blanket,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Blanket
 536,Sacrificial Altar,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Sacrificial_Altar
