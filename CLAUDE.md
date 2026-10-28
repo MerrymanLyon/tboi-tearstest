@@ -24,7 +24,22 @@ All code, data, documentation and UI text are in English.
 - `replaces`: changes the weapon (Brimstone, Mom's Knife, Dr. Fetus, Tech X, ...)
 - `adds`: adds an effect to the attack (homing, piercing, poison, split, ...)
 - `multiplies`: changes the number of shots (20/20, The Inner Eye, Mutant Spider, ...)
+- `firing`: changes how Isaac fires, e.g. charging, hovering or aiming (Soy Milk, Chocolate Milk, Cursed Eye, Anti-Gravity, Marked, ...)
 - `exception`: a specific interaction between two or more items (from the wiki's Synergies/Interactions sections)
+
+## Scope status (`data/scope.csv`)
+
+- `in`: in scope, with one of the categories above.
+- `conditional`: only changes the attack together with specific weapons (bomb modifiers with Dr. Fetus / Epic Fetus).
+- `active`: active item that changes the attack temporarily. Not in scope for now.
+- `out`: not in scope.
+
+`data/scope.csv` is reviewed and edited by hand: it is the source of truth for which items are in scope. Do not regenerate it from scratch.
+
+## Data pipeline
+
+1. `python3 scripts/fetch_wiki.py` downloads every collectible page to `data/raw/wiki_pages.json` (not committed).
+2. `python3 scripts/extract_items.py` builds `data/wiki_items.json`: infobox data plus the Effects, Synergies and Interactions sections, filtered to Repentance+.
 
 ## Licensing
 

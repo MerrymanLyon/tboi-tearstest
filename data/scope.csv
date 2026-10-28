@@ -1,0 +1,721 @@
+id,name,type,scope,category,note,source
+-1,G FUEL!,passive,out,,"Special promotional item (replaces tears with ""guns""); excluded for now",https://bindingofisaacrebirth.wiki.gg/wiki/G_FUEL!
+1,The Sad Onion,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/The_Sad_Onion
+2,The Inner Eye,passive,in,multiplies,Fires 3 tears at once,https://bindingofisaacrebirth.wiki.gg/wiki/The_Inner_Eye
+3,Spoon Bender,passive,in,adds,Homing,https://bindingofisaacrebirth.wiki.gg/wiki/Spoon_Bender
+4,Cricket's Head,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Cricket's_Head
+5,My Reflection,passive,in,adds,Tears return to Isaac (boomerang),https://bindingofisaacrebirth.wiki.gg/wiki/My_Reflection
+6,Number One,passive,out,,"Only stats and cosmetic (yellow tears, fired from lower body)",https://bindingofisaacrebirth.wiki.gg/wiki/Number_One
+7,Blood of the Martyr,passive,out,,Only damage and cosmetic (red tears),https://bindingofisaacrebirth.wiki.gg/wiki/Blood_of_the_Martyr
+8,Brother Bobby,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Brother_Bobby
+9,Skatole,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Skatole
+10,Halo of Flies,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Halo_of_Flies
+11,1up!,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/1up!
+12,Magic Mushroom,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Magic_Mushroom
+13,The Virus,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/The_Virus
+14,Roid Rage,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Roid_Rage
+15,Less Than Three,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Less_Than_Three
+16,Raw Liver,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Raw_Liver
+17,Skeleton Key,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Skeleton_Key
+18,A Dollar,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/A_Dollar
+19,Boom!,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Boom!
+20,Transcendence,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Transcendence
+21,The Compass,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/The_Compass
+22,Lunch,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Lunch
+23,Dinner,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Dinner
+24,Dessert,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Dessert
+25,Breakfast,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Breakfast
+26,Rotten Meat,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Rotten_Meat
+27,Wooden Spoon,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Wooden_Spoon
+28,The Belt,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/The_Belt
+29,Mom's Underwear,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Mom's_Underwear
+30,Mom's Heels,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Mom's_Heels
+31,Mom's Lipstick,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Mom's_Lipstick
+32,Wire Coat Hanger,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Wire_Coat_Hanger
+33,The Bible,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/The_Bible
+34,The Book of Belial,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/The_Book_of_Belial
+35,The Necronomicon,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/The_Necronomicon
+36,The Poop,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/The_Poop
+37,Mr. Boom,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Mr._Boom
+38,Tammy's Head,activated,active,,Active: one-time ring of 10 tears,https://bindingofisaacrebirth.wiki.gg/wiki/Tammy's_Head
+39,Mom's Bra,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Mom's_Bra
+40,Kamikaze!,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Kamikaze!
+41,Mom's Pad,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Mom's_Pad
+42,Bob's Rotten Head,activated,active,,Active: throwable poison bomb,https://bindingofisaacrebirth.wiki.gg/wiki/Bob's_Rotten_Head
+44,Teleport!,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Teleport!
+45,Yum Heart,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Yum_Heart
+46,Lucky Foot,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Lucky_Foot
+47,Doctor's Remote,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Doctor's_Remote
+48,Cupid's Arrow,passive,in,adds,Piercing,https://bindingofisaacrebirth.wiki.gg/wiki/Cupid's_Arrow
+49,Shoop da Whoop!,activated,active,,Active: next shot is a large laser,https://bindingofisaacrebirth.wiki.gg/wiki/Shoop_da_Whoop!
+50,Steven (Item),passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Steven_(Item)
+51,Pentagram,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Pentagram
+52,Dr. Fetus,passive,in,replaces,Bombs instead of tears,https://bindingofisaacrebirth.wiki.gg/wiki/Dr._Fetus
+53,Magneto,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Magneto
+54,Treasure Map,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Treasure_Map
+55,Mom's Eye,passive,in,multiplies,Chance to fire an extra tear backwards,https://bindingofisaacrebirth.wiki.gg/wiki/Mom's_Eye
+56,Lemon Mishap,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Lemon_Mishap
+57,Distant Admiration,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Distant_Admiration
+58,Book of Shadows,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Book_of_Shadows
+60,The Ladder,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/The_Ladder
+62,Charm of the Vampire,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Charm_of_the_Vampire
+63,The Battery,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/The_Battery
+64,Steam Sale,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Steam_Sale
+65,Anarchist Cookbook,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Anarchist_Cookbook
+66,The Hourglass,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/The_Hourglass
+67,Sister Maggy,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Sister_Maggy
+68,Technology,passive,in,replaces,Laser instead of tears,https://bindingofisaacrebirth.wiki.gg/wiki/Technology
+69,Chocolate Milk,passive,in,firing,Charged tears,https://bindingofisaacrebirth.wiki.gg/wiki/Chocolate_Milk
+70,Growth Hormones,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Growth_Hormones
+71,Mini Mush,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Mini_Mush
+72,Rosary,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Rosary
+73,Cube of Meat,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Cube_of_Meat
+74,A Quarter,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/A_Quarter
+75,PHD,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/PHD
+76,X-Ray Vision,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/X-Ray_Vision
+77,My Little Unicorn,activated,active,,"Active: removes shooting, contact damage",https://bindingofisaacrebirth.wiki.gg/wiki/My_Little_Unicorn
+78,Book of Revelations,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Book_of_Revelations
+79,The Mark,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/The_Mark
+80,The Pact,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/The_Pact
+81,Dead Cat,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Dead_Cat
+82,Lord of the Pit,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Lord_of_the_Pit
+83,The Nail,activated,active,,"Active: contact damage, red tears for the room",https://bindingofisaacrebirth.wiki.gg/wiki/The_Nail
+84,We Need To Go Deeper!,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/We_Need_To_Go_Deeper!
+85,Deck of Cards,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Deck_of_Cards
+86,Monstro's Tooth,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Monstro's_Tooth
+87,Loki's Horns,passive,in,multiplies,Chance to fire in 4 directions,https://bindingofisaacrebirth.wiki.gg/wiki/Loki's_Horns
+88,Little Chubby,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Little_Chubby
+89,Spider Bite,passive,in,adds,Chance of slowing tears,https://bindingofisaacrebirth.wiki.gg/wiki/Spider_Bite
+90,The Small Rock,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/The_Small_Rock
+91,Spelunker Hat,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Spelunker_Hat
+92,Super Bandage,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Super_Bandage
+93,The Gamekid,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/The_Gamekid
+94,Sack of Pennies,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Sack_of_Pennies
+95,Robo-Baby,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Robo-Baby
+96,Little C.H.A.D.,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Little_C.H.A.D.
+97,The Book of Sin,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/The_Book_of_Sin
+98,The Relic,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/The_Relic
+99,Little Gish,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Little_Gish
+100,Little Steven,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Little_Steven
+101,The Halo,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/The_Halo
+102,Mom's Bottle of Pills,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Mom's_Bottle_of_Pills
+103,The Common Cold,passive,in,adds,Chance of poison tears,https://bindingofisaacrebirth.wiki.gg/wiki/The_Common_Cold
+104,The Parasite,passive,in,adds,Tears split in two on impact,https://bindingofisaacrebirth.wiki.gg/wiki/The_Parasite
+105,The D6,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/The_D6
+106,Mr. Mega,passive,conditional,,"Bomb modifier: only changes the attack with bomb weapons (Dr. Fetus, Epic Fetus)",https://bindingofisaacrebirth.wiki.gg/wiki/Mr._Mega
+107,The Pinking Shears,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/The_Pinking_Shears
+108,The Wafer,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/The_Wafer
+109,Money = Power,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Money_=_Power
+110,Mom's Contacts,passive,in,adds,Chance of petrifying tears,https://bindingofisaacrebirth.wiki.gg/wiki/Mom's_Contacts
+111,The Bean,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/The_Bean
+112,Guardian Angel,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Guardian_Angel
+113,Demon Baby,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Demon_Baby
+114,Mom's Knife,passive,in,replaces,Knife instead of tears,https://bindingofisaacrebirth.wiki.gg/wiki/Mom's_Knife
+115,Ouija Board,passive,in,adds,Spectral,https://bindingofisaacrebirth.wiki.gg/wiki/Ouija_Board
+116,9 Volt,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/9_Volt
+117,Dead Bird,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Dead_Bird
+118,Brimstone,passive,in,replaces,Blood laser instead of tears,https://bindingofisaacrebirth.wiki.gg/wiki/Brimstone
+119,Blood Bag,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Blood_Bag
+120,Odd Mushroom (Thin),passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Odd_Mushroom_(Thin)
+121,Odd Mushroom (Large),passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Odd_Mushroom_(Large)
+122,Whore of Babylon,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Whore_of_Babylon
+123,Monster Manual,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Monster_Manual
+124,Dead Sea Scrolls,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Dead_Sea_Scrolls
+125,Bobby-Bomb,passive,conditional,,Bomb modifier (homing bombs): only changes the attack with bomb weapons,https://bindingofisaacrebirth.wiki.gg/wiki/Bobby-Bomb
+126,Razor Blade,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Razor_Blade
+127,Forget Me Now,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Forget_Me_Now
+128,Forever alone,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Forever_alone
+129,Bucket of Lard,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Bucket_of_Lard
+130,A Pony,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/A_Pony
+131,Bomb Bag,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Bomb_Bag
+132,A Lump of Coal,passive,in,adds,Damage grows with distance travelled,https://bindingofisaacrebirth.wiki.gg/wiki/A_Lump_of_Coal
+133,Guppy's Paw,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Guppy's_Paw
+134,Guppy's Tail,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Guppy's_Tail
+135,IV Bag,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/IV_Bag
+136,Best Friend,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Best_Friend
+137,Remote Detonator,activated,conditional,,Bomb modifier (remote detonation): only changes the attack with bomb weapons,https://bindingofisaacrebirth.wiki.gg/wiki/Remote_Detonator
+138,Stigmata,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Stigmata
+139,Mom's Purse,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Mom's_Purse
+140,Bob's Curse,passive,conditional,,Bomb modifier (poison bombs): only changes the attack with bomb weapons,https://bindingofisaacrebirth.wiki.gg/wiki/Bob's_Curse
+141,Pageant Boy,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Pageant_Boy
+142,Scapular,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Scapular
+143,Speed Ball,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Speed_Ball
+144,Bum Friend,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Bum_Friend
+145,Guppy's Head,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Guppy's_Head
+146,Prayer Card,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Prayer_Card
+147,Notched Axe,activated,active,,Active: swaps tears for an axe while charged,https://bindingofisaacrebirth.wiki.gg/wiki/Notched_Axe
+148,Infestation,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Infestation
+149,Ipecac,passive,in,adds,"Explosive, poisoning, arcing shots. Wiki says ""replaces tears"", but it combines with other weapons as an effect",https://bindingofisaacrebirth.wiki.gg/wiki/Ipecac
+150,Tough Love,passive,in,adds,Chance to fire a tooth (x3.2 damage),https://bindingofisaacrebirth.wiki.gg/wiki/Tough_Love
+151,The Mulligan,passive,in,adds,Chance to spawn Blue Flies on hit,https://bindingofisaacrebirth.wiki.gg/wiki/The_Mulligan
+152,Technology 2,passive,in,replaces,Right eye fires a continuous laser,https://bindingofisaacrebirth.wiki.gg/wiki/Technology_2
+153,Mutant Spider,passive,in,multiplies,Fires 4 tears at once,https://bindingofisaacrebirth.wiki.gg/wiki/Mutant_Spider
+154,Chemical Peel,passive,out,,Only damage (left eye),https://bindingofisaacrebirth.wiki.gg/wiki/Chemical_Peel
+155,The Peeper,passive,out,,Familiar,https://bindingofisaacrebirth.wiki.gg/wiki/The_Peeper
+156,Habit,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Habit
+157,Bloody Lust,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Bloody_Lust
+158,Crystal Ball,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Crystal_Ball
+159,Spirit of the Night,passive,in,adds,Spectral,https://bindingofisaacrebirth.wiki.gg/wiki/Spirit_of_the_Night
+160,Crack the Sky,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Crack_the_Sky
+161,Ankh,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Ankh
+162,Celtic Cross,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Celtic_Cross
+163,Ghost Baby,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Ghost_Baby
+164,The Candle,activated,active,,Active: fires a blue flame,https://bindingofisaacrebirth.wiki.gg/wiki/The_Candle
+165,Cat-o-nine-tails,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Cat-o-nine-tails
+166,D20,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/D20
+167,Harlequin Baby,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Harlequin_Baby
+168,Epic Fetus,passive,in,replaces,Missiles with a crosshair instead of tears,https://bindingofisaacrebirth.wiki.gg/wiki/Epic_Fetus
+169,Polyphemus,passive,in,adds,Tear continues through a killed enemy with leftover damage,https://bindingofisaacrebirth.wiki.gg/wiki/Polyphemus
+170,Daddy Longlegs,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Daddy_Longlegs
+171,Spider Butt,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Spider_Butt
+172,Sacrificial Dagger,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Sacrificial_Dagger
+173,Mitre,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Mitre
+174,Rainbow Baby,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Rainbow_Baby
+175,Dad's Key,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Dad's_Key
+176,Stem Cells,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Stem_Cells
+177,Portable Slot,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Portable_Slot
+178,Holy Water,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Holy_Water
+179,Fate,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Fate
+180,The Black Bean,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/The_Black_Bean
+181,White Pony,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/White_Pony
+182,Sacred Heart,passive,in,adds,Homing,https://bindingofisaacrebirth.wiki.gg/wiki/Sacred_Heart
+183,Tooth Picks,passive,out,,Only stats and cosmetic (red tears),https://bindingofisaacrebirth.wiki.gg/wiki/Tooth_Picks
+184,Holy Grail,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Holy_Grail
+185,Dead Dove,passive,in,adds,Spectral,https://bindingofisaacrebirth.wiki.gg/wiki/Dead_Dove
+186,Blood Rights,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Blood_Rights
+187,Guppy's Hairball,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Guppy's_Hairball
+188,Abel,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Abel
+189,SMB Super Fan,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/SMB_Super_Fan
+190,Pyro,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Pyro
+191,3 Dollar Bill,passive,in,adds,Random tear effects (rerolled each floor),https://bindingofisaacrebirth.wiki.gg/wiki/3_Dollar_Bill
+192,Telepathy For Dummies,activated,active,,Active: homing tears for the room,https://bindingofisaacrebirth.wiki.gg/wiki/Telepathy_For_Dummies
+193,MEAT!,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/MEAT!
+194,Magic 8 Ball,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Magic_8_Ball
+195,Mom's Coin Purse,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Mom's_Coin_Purse
+196,Squeezy,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Squeezy
+197,Jesus Juice,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Jesus_Juice
+198,Box,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Box
+199,Mom's Key,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Mom's_Key
+200,Mom's Eyeshadow,passive,in,adds,Chance of charming tears,https://bindingofisaacrebirth.wiki.gg/wiki/Mom's_Eyeshadow
+201,Iron Bar,passive,in,adds,Chance of concussive tears,https://bindingofisaacrebirth.wiki.gg/wiki/Iron_Bar
+202,Midas' Touch,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Midas'_Touch
+203,Humbleing Bundle,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Humbleing_Bundle
+204,Fanny Pack,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Fanny_Pack
+205,Sharp Plug,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Sharp_Plug
+206,Guillotine,passive,in,adds,"Tears are fired from Isaac's head, which orbits him",https://bindingofisaacrebirth.wiki.gg/wiki/Guillotine
+207,Ball of Bandages,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Ball_of_Bandages
+208,Champion Belt,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Champion_Belt
+209,Butt Bombs,passive,conditional,,Bomb modifier: only changes the attack with bomb weapons,https://bindingofisaacrebirth.wiki.gg/wiki/Butt_Bombs
+210,Gnawed Leaf,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Gnawed_Leaf
+211,Spiderbaby,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Spiderbaby
+212,Guppy's Collar,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Guppy's_Collar
+213,Lost Contact,passive,in,adds,Tears get a shield that blocks enemy shots,https://bindingofisaacrebirth.wiki.gg/wiki/Lost_Contact
+214,Anemic,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Anemic
+215,Goat Head,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Goat_Head
+216,Ceremonial Robes,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Ceremonial_Robes
+217,Mom's Wig,passive,out,,Spawns Blue Spiders when firing; does not change the tears themselves,https://bindingofisaacrebirth.wiki.gg/wiki/Mom's_Wig
+218,Placenta,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Placenta
+219,Old Bandage,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Old_Bandage
+220,Sad Bombs,passive,conditional,,Bomb modifier (bombs release tears): only changes the attack with bomb weapons,https://bindingofisaacrebirth.wiki.gg/wiki/Sad_Bombs
+221,Rubber Cement,passive,in,adds,Bouncing tears,https://bindingofisaacrebirth.wiki.gg/wiki/Rubber_Cement
+222,Anti-Gravity,passive,in,firing,"Tears hover while fire is held, then all fire on release",https://bindingofisaacrebirth.wiki.gg/wiki/Anti-Gravity
+223,Pyromaniac,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Pyromaniac
+224,Cricket's Body,passive,in,adds,Tears split into 4 when they disappear,https://bindingofisaacrebirth.wiki.gg/wiki/Cricket's_Body
+225,Gimpy,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Gimpy
+226,Black Lotus,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Black_Lotus
+227,Piggy Bank,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Piggy_Bank
+228,Mom's Perfume,passive,in,adds,Chance of fear tears,https://bindingofisaacrebirth.wiki.gg/wiki/Mom's_Perfume
+229,Monstro's Lung,passive,in,firing,Charged burst of 14 tears,https://bindingofisaacrebirth.wiki.gg/wiki/Monstro's_Lung
+230,Abaddon,passive,in,adds,Chance of fear tears,https://bindingofisaacrebirth.wiki.gg/wiki/Abaddon
+231,Ball of Tar,passive,in,adds,Chance of slowing tears,https://bindingofisaacrebirth.wiki.gg/wiki/Ball_of_Tar
+232,Stop Watch,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Stop_Watch
+233,Tiny Planet,passive,in,adds,Tears orbit Isaac; spectral,https://bindingofisaacrebirth.wiki.gg/wiki/Tiny_Planet
+234,Infestation 2,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Infestation_2
+236,E. Coli,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/E._Coli
+237,Death's Touch,passive,in,adds,Piercing scythes instead of normal tears,https://bindingofisaacrebirth.wiki.gg/wiki/Death's_Touch
+238,Key Piece 1,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Key_Piece_1
+239,Key Piece 2,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Key_Piece_2
+240,Experimental Treatment,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Experimental_Treatment
+241,Contract From Below,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Contract_From_Below
+242,Infamy,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Infamy
+243,Trinity Shield,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Trinity_Shield
+244,Tech.5,passive,in,adds,"Extra laser fired at random, alongside tears",https://bindingofisaacrebirth.wiki.gg/wiki/Tech.5
+245,20/20,passive,in,multiplies,Fires 2 tears at once,https://bindingofisaacrebirth.wiki.gg/wiki/20/20
+246,Blue Map,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Blue_Map
+247,BFFS!,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/BFFS!
+248,Hive Mind,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Hive_Mind
+249,There's Options,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/There's_Options
+250,BOGO Bombs,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/BOGO_Bombs
+251,Starter Deck,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Starter_Deck
+252,Little Baggy,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Little_Baggy
+253,Magic Scab,passive,conditional,,Bomb modifier (fire): only changes the attack with bomb weapons,https://bindingofisaacrebirth.wiki.gg/wiki/Magic_Scab
+254,Blood Clot,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Blood_Clot
+255,Screw,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Screw
+256,Hot Bombs,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Hot_Bombs
+257,Fire Mind,passive,in,adds,Burning tears; chance to explode on impact,https://bindingofisaacrebirth.wiki.gg/wiki/Fire_Mind
+258,Missing No.,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Missing_No.
+259,Dark Matter,passive,in,adds,Chance of fear tears,https://bindingofisaacrebirth.wiki.gg/wiki/Dark_Matter
+260,Black Candle,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Black_Candle
+261,Proptosis,passive,in,adds,Big tears that shrink and lose damage over time,https://bindingofisaacrebirth.wiki.gg/wiki/Proptosis
+262,Missing Page 2,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Missing_Page_2
+263,Clear Rune,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Clear_Rune
+264,Smart Fly,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Smart_Fly
+265,Dry Baby,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Dry_Baby
+266,Juicy Sack,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Juicy_Sack
+267,Robo-Baby 2.0,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Robo-Baby_2.0
+268,Rotten Baby,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Rotten_Baby
+269,Headless Baby,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Headless_Baby
+270,Leech,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Leech
+271,Mystery Sack,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Mystery_Sack
+272,BBF,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/BBF
+273,Bob's Brain,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Bob's_Brain
+274,Best Bud,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Best_Bud
+275,Lil Brimstone,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Lil_Brimstone
+276,Isaac's Heart,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Isaac's_Heart
+277,Lil Haunt,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Lil_Haunt
+278,Dark Bum,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Dark_Bum
+279,Big Fan,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Big_Fan
+280,Sissy Longlegs,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Sissy_Longlegs
+281,Punching Bag,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Punching_Bag
+282,How to Jump,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/How_to_Jump
+283,D100,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/D100
+284,D4,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/D4
+285,D10,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/D10
+286,Blank Card,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Blank_Card
+287,Book of Secrets,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Book_of_Secrets
+288,Box of Spiders,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Box_of_Spiders
+289,Red Candle,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Red_Candle
+290,The Jar,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/The_Jar
+291,Flush!,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Flush!
+292,Satanic Bible,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Satanic_Bible
+293,Head of Krampus,activated,active,,Active: Brimstone in 4 directions,https://bindingofisaacrebirth.wiki.gg/wiki/Head_of_Krampus
+294,Butter Bean,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Butter_Bean
+295,Magic Fingers,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Magic_Fingers
+296,Converter,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Converter
+297,Pandora's Box,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Pandora's_Box
+298,Unicorn Stump,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Unicorn_Stump
+299,Taurus,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Taurus
+300,Aries,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Aries
+301,Cancer,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Cancer
+302,Leo,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Leo
+303,Virgo,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Virgo
+304,Libra,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Libra
+305,Scorpio,passive,in,adds,Poison tears,https://bindingofisaacrebirth.wiki.gg/wiki/Scorpio
+306,Sagittarius,passive,in,adds,Piercing,https://bindingofisaacrebirth.wiki.gg/wiki/Sagittarius
+307,Capricorn,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Capricorn
+308,Aquarius,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Aquarius
+309,Pisces,passive,out,,Only knockback and tear size,https://bindingofisaacrebirth.wiki.gg/wiki/Pisces
+310,Eve's Mascara,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Eve's_Mascara
+311,Judas' Shadow,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Judas'_Shadow
+312,Maggy's Bow,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Maggy's_Bow
+313,Holy Mantle,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Holy_Mantle
+314,Thunder Thighs,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Thunder_Thighs
+315,Strange Attractor,passive,in,adds,Tears attract enemies and pickups,https://bindingofisaacrebirth.wiki.gg/wiki/Strange_Attractor
+316,Cursed Eye,passive,in,firing,Charged burst of up to 5 tears,https://bindingofisaacrebirth.wiki.gg/wiki/Cursed_Eye
+317,Mysterious Liquid,passive,in,adds,Tears leave creep on impact,https://bindingofisaacrebirth.wiki.gg/wiki/Mysterious_Liquid
+318,Gemini (Item),passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Gemini_(Item)
+319,Cain's Other Eye,passive,out,,Familiar,https://bindingofisaacrebirth.wiki.gg/wiki/Cain's_Other_Eye
+320,???'s Only Friend,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/???'s_Only_Friend
+321,Samson's Chains,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Samson's_Chains
+322,Mongo Baby,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Mongo_Baby
+323,Isaac's Tears,activated,active,,Active: one-time ring of 8 tears,https://bindingofisaacrebirth.wiki.gg/wiki/Isaac's_Tears
+324,Undefined,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Undefined
+325,Scissors,activated,active,,Active: detached head fires tears for the room,https://bindingofisaacrebirth.wiki.gg/wiki/Scissors
+326,Breath of Life,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Breath_of_Life
+327,The Polaroid,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/The_Polaroid
+328,The Negative,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/The_Negative
+329,The Ludovico Technique,passive,in,replaces,One controllable floating tear instead of normal tears,https://bindingofisaacrebirth.wiki.gg/wiki/The_Ludovico_Technique
+330,Soy Milk,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Soy_Milk
+331,Godhead,passive,in,adds,Homing tears with a damaging aura,https://bindingofisaacrebirth.wiki.gg/wiki/Godhead
+332,Lazarus' Rags,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Lazarus'_Rags
+333,The Mind,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/The_Mind
+334,The Body,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/The_Body
+335,The Soul,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/The_Soul
+336,Dead Onion,passive,in,adds,Piercing and spectral,https://bindingofisaacrebirth.wiki.gg/wiki/Dead_Onion
+337,Broken Watch,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Broken_Watch
+338,The Boomerang,activated,active,,Active: throwable boomerang,https://bindingofisaacrebirth.wiki.gg/wiki/The_Boomerang
+339,Safety Pin,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Safety_Pin
+340,Caffeine Pill,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Caffeine_Pill
+341,Torn Photo,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Torn_Photo
+342,Blue Cap,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Blue_Cap
+343,Latch Key,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Latch_Key
+344,Match Book,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Match_Book
+345,Synthoil,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Synthoil
+346,A Snack,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/A_Snack
+347,Diplopia,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Diplopia
+348,Placebo,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Placebo
+349,Wooden Nickel,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Wooden_Nickel
+350,Toxic Shock,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Toxic_Shock
+351,Mega Bean,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Mega_Bean
+352,Glass Cannon,activated,active,,Active: one high-damage piercing tear,https://bindingofisaacrebirth.wiki.gg/wiki/Glass_Cannon
+353,Bomber Boy,passive,conditional,,Bomb modifier (cross blast): only changes the attack with bomb weapons,https://bindingofisaacrebirth.wiki.gg/wiki/Bomber_Boy
+354,Crack Jacks,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Crack_Jacks
+355,Mom's Pearls,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Mom's_Pearls
+356,Car Battery,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Car_Battery
+357,Box of Friends,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Box_of_Friends
+358,The Wiz,passive,in,multiplies,Two tears fired diagonally; spectral,https://bindingofisaacrebirth.wiki.gg/wiki/The_Wiz
+359,8 Inch Nails,passive,in,adds,Nails with extra knockback instead of normal tears,https://bindingofisaacrebirth.wiki.gg/wiki/8_Inch_Nails
+360,Incubus,passive,out,,Familiar,https://bindingofisaacrebirth.wiki.gg/wiki/Incubus
+361,Fate's Reward,passive,out,,Familiar,https://bindingofisaacrebirth.wiki.gg/wiki/Fate's_Reward
+362,Lil Chest,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Lil_Chest
+363,Sworn Protector,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Sworn_Protector
+364,Friend Zone,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Friend_Zone
+365,Lost Fly,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Lost_Fly
+366,Scatter Bombs,passive,conditional,,Bomb modifier (bombs split): only changes the attack with bomb weapons,https://bindingofisaacrebirth.wiki.gg/wiki/Scatter_Bombs
+367,Sticky Bombs,passive,conditional,,Bomb modifier (sticky bombs): only changes the attack with bomb weapons,https://bindingofisaacrebirth.wiki.gg/wiki/Sticky_Bombs
+368,Epiphora,passive,in,firing,Fire rate ramps up while firing in one direction; accuracy drops,https://bindingofisaacrebirth.wiki.gg/wiki/Epiphora
+369,Continuum,passive,in,adds,Spectral; tears wrap around the screen,https://bindingofisaacrebirth.wiki.gg/wiki/Continuum
+370,Mr. Dolly,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Mr._Dolly
+371,Curse of the Tower,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Curse_of_the_Tower
+372,Charged Baby,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Charged_Baby
+373,Dead Eye,passive,in,adds,Damage builds with consecutive hits; tears grow and glow red,https://bindingofisaacrebirth.wiki.gg/wiki/Dead_Eye
+374,Holy Light,passive,in,adds,Chance of tears that call a beam of light on hit,https://bindingofisaacrebirth.wiki.gg/wiki/Holy_Light
+375,Host Hat,passive,out,,"Triggers when blocking enemy shots, not when shooting",https://bindingofisaacrebirth.wiki.gg/wiki/Host_Hat
+376,Restock,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Restock
+377,Bursting Sack,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Bursting_Sack
+378,No. 2,passive,out,,Drops Butt Bombs while firing; does not change the tears,https://bindingofisaacrebirth.wiki.gg/wiki/No._2
+379,Pupula Duplex,passive,in,adds,Spectral; bigger tears,https://bindingofisaacrebirth.wiki.gg/wiki/Pupula_Duplex
+380,Pay To Play,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Pay_To_Play
+381,Eden's Blessing,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Eden's_Blessing
+382,Friendly Ball,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Friendly_Ball
+383,Tear Detonator,activated,active,,Active: splits tears in the air,https://bindingofisaacrebirth.wiki.gg/wiki/Tear_Detonator
+384,Lil Gurdy,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Lil_Gurdy
+385,Bumbo,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Bumbo
+386,D12,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/D12
+387,Censer,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Censer
+388,Key Bum,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Key_Bum
+389,Rune Bag,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Rune_Bag
+390,Seraphim,passive,in,adds,Chance of poison tears,https://bindingofisaacrebirth.wiki.gg/wiki/Seraphim
+391,Betrayal,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Betrayal
+392,Zodiac,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Zodiac
+393,Serpent's Kiss,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Serpent's_Kiss
+394,Marked,passive,in,firing,Isaac fires automatically at a controllable crosshair,https://bindingofisaacrebirth.wiki.gg/wiki/Marked
+395,Tech X,passive,in,replaces,Laser rings instead of tears,https://bindingofisaacrebirth.wiki.gg/wiki/Tech_X
+396,Ventricle Razor,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Ventricle_Razor
+397,Tractor Beam,passive,in,adds,Tears travel along a beam in front of Isaac,https://bindingofisaacrebirth.wiki.gg/wiki/Tractor_Beam
+398,God's Flesh,passive,in,adds,Chance of shrinking tears,https://bindingofisaacrebirth.wiki.gg/wiki/God's_Flesh
+399,Maw Of The Void,passive,in,adds,"After firing for a while, releasing fire creates a black Brimstone ring",https://bindingofisaacrebirth.wiki.gg/wiki/Maw_Of_The_Void
+400,Spear Of Destiny,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Spear_Of_Destiny
+401,Explosivo,passive,in,adds,Chance of sticky explosive tears,https://bindingofisaacrebirth.wiki.gg/wiki/Explosivo
+402,Chaos,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Chaos
+403,Spider Mod,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Spider_Mod
+404,Farting Baby,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Farting_Baby
+405,GB Bug,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/GB_Bug
+406,D8,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/D8
+407,Purity,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Purity
+408,Athame,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Athame
+409,Empty Vessel,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Empty_Vessel
+410,Evil Eye,passive,in,adds,Occasionally fires an eye that shoots copies of Isaac's tears,https://bindingofisaacrebirth.wiki.gg/wiki/Evil_Eye
+411,Lusty Blood,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Lusty_Blood
+412,Cambion Conception,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Cambion_Conception
+413,Immaculate Conception,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Immaculate_Conception
+414,More Options,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/More_Options
+415,Crown Of Light,passive,in,adds,Diamond tears while hearts are full,https://bindingofisaacrebirth.wiki.gg/wiki/Crown_Of_Light
+416,Deep Pockets,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Deep_Pockets
+417,Succubus,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Succubus
+418,Fruit Cake,passive,in,adds,Each tear gets a random effect,https://bindingofisaacrebirth.wiki.gg/wiki/Fruit_Cake
+419,Teleport 2.0,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Teleport_2.0
+420,Black Powder,passive,conditional,,Bomb modifier (bigger explosions): only changes the attack with bomb weapons,https://bindingofisaacrebirth.wiki.gg/wiki/Black_Powder
+421,Kidney Bean,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Kidney_Bean
+422,Glowing Hourglass,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Glowing_Hourglass
+423,Circle of Protection,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Circle_of_Protection
+424,Sack Head,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Sack_Head
+425,Night Light,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Night_Light
+426,Obsessed Fan,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Obsessed_Fan
+427,Mine Crafter,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Mine_Crafter
+428,PJs,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/PJs
+429,Head of the Keeper,passive,in,adds,Coin tears; chance to drop a penny,https://bindingofisaacrebirth.wiki.gg/wiki/Head_of_the_Keeper
+430,Papa Fly,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Papa_Fly
+431,Multidimensional Baby,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Multidimensional_Baby
+432,Glitter Bombs,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Glitter_Bombs
+433,My Shadow,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/My_Shadow
+434,Jar of Flies,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Jar_of_Flies
+435,Lil Loki,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Lil_Loki
+436,Milk!,passive,out,,Familiar; only fire rate,https://bindingofisaacrebirth.wiki.gg/wiki/Milk!
+437,D7,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/D7
+438,Binky,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Binky
+439,Mom's Box,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Mom's_Box
+440,Kidney Stone,passive,in,firing,Periodically forced to charge a kidney stone followed by a spray of tears,https://bindingofisaacrebirth.wiki.gg/wiki/Kidney_Stone
+441,Mega Blast,activated,active,,Active: giant laser,https://bindingofisaacrebirth.wiki.gg/wiki/Mega_Blast
+442,Dark Prince's Crown,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Dark_Prince's_Crown
+443,Apple!,passive,in,adds,Chance of razor-blade tears,https://bindingofisaacrebirth.wiki.gg/wiki/Apple!
+444,Lead Pencil,passive,in,multiplies,"Every 15 tears, fires a burst of 12 tears",https://bindingofisaacrebirth.wiki.gg/wiki/Lead_Pencil
+445,Dog Tooth,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Dog_Tooth
+446,Dead Tooth,passive,out,,Poison aura while firing; does not change the tears,https://bindingofisaacrebirth.wiki.gg/wiki/Dead_Tooth
+447,Linger Bean,passive,out,,Damaging cloud after firing for 4 seconds; does not change the tears,https://bindingofisaacrebirth.wiki.gg/wiki/Linger_Bean
+448,Shard of Glass,passive,out,,Bleeding tears around Isaac; not the main attack,https://bindingofisaacrebirth.wiki.gg/wiki/Shard_of_Glass
+449,Metal Plate,passive,out,,Reflects enemy shots,https://bindingofisaacrebirth.wiki.gg/wiki/Metal_Plate
+450,Eye of Greed,passive,in,adds,Golden tear every 20 tears,https://bindingofisaacrebirth.wiki.gg/wiki/Eye_of_Greed
+451,Tarot Cloth,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Tarot_Cloth
+452,Varicose Veins,passive,out,,"Tears ring when hit, not when shooting",https://bindingofisaacrebirth.wiki.gg/wiki/Varicose_Veins
+453,Compound Fracture,passive,in,adds,Bone tears that shatter into shards,https://bindingofisaacrebirth.wiki.gg/wiki/Compound_Fracture
+454,Polydactyly,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Polydactyly
+455,Dad's Lost Coin,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Dad's_Lost_Coin
+456,Midnight Snack,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Midnight_Snack
+457,Cone Head,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Cone_Head
+458,Belly Button,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Belly_Button
+459,Sinus Infection,passive,in,adds,Chance of sticky booger tears,https://bindingofisaacrebirth.wiki.gg/wiki/Sinus_Infection
+460,Glaucoma,passive,in,adds,Chance of concussive tears,https://bindingofisaacrebirth.wiki.gg/wiki/Glaucoma
+461,Parasitoid,passive,in,adds,Chance of egg-sack tears,https://bindingofisaacrebirth.wiki.gg/wiki/Parasitoid
+462,Eye of Belial,passive,in,adds,"Piercing; after piercing, tears gain damage and homing",https://bindingofisaacrebirth.wiki.gg/wiki/Eye_of_Belial
+463,Sulfuric Acid,passive,in,adds,Chance of acid tears that destroy obstacles,https://bindingofisaacrebirth.wiki.gg/wiki/Sulfuric_Acid
+464,Glyph of Balance,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Glyph_of_Balance
+465,Analog Stick,passive,in,firing,Diagonal / any-direction firing,https://bindingofisaacrebirth.wiki.gg/wiki/Analog_Stick
+466,Contagion,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Contagion
+467,Finger!,passive,out,,Familiar,https://bindingofisaacrebirth.wiki.gg/wiki/Finger!
+468,Shade,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Shade
+469,Depression,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Depression
+470,Hushy,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Hushy
+471,Lil Monstro,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Lil_Monstro
+472,King Baby,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/King_Baby
+473,Big Chubby,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Big_Chubby
+474,Broken Glass Cannon,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Broken_Glass_Cannon
+474,Tonsil,passive,out,,Not available in Repentance+,https://bindingofisaacrebirth.wiki.gg/wiki/Tonsil
+475,Plan C,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Plan_C
+476,D1,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/D1
+477,Void,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Void
+478,Pause,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Pause
+479,Smelter,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Smelter
+480,Compost,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Compost
+481,Dataminer,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Dataminer
+482,Clicker,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Clicker
+483,Mama Mega!,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Mama_Mega!
+484,Wait What?,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Wait_What?
+485,Crooked Penny,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Crooked_Penny
+486,Dull Razor,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Dull_Razor
+487,Potato Peeler,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Potato_Peeler
+488,Metronome,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Metronome
+489,D infinity,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/D_infinity
+490,Eden's Soul,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Eden's_Soul
+491,Acid Baby,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Acid_Baby
+492,YO LISTEN!,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/YO_LISTEN!
+493,Adrenaline,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Adrenaline
+494,Jacob's Ladder,passive,in,adds,Tears release electric sparks on impact,https://bindingofisaacrebirth.wiki.gg/wiki/Jacob's_Ladder
+495,Ghost Pepper,passive,in,adds,Shooting sometimes spawns a blue fire,https://bindingofisaacrebirth.wiki.gg/wiki/Ghost_Pepper
+496,Euthanasia,passive,in,adds,Chance of needle tears that burst into tears on kill,https://bindingofisaacrebirth.wiki.gg/wiki/Euthanasia
+497,Camo Undies,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Camo_Undies
+498,Duality,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Duality
+499,Eucharist,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Eucharist
+500,Sack of Sacks,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Sack_of_Sacks
+501,Greed's Gullet,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Greed's_Gullet
+502,Large Zit,passive,in,adds,Chance of an extra creep shot,https://bindingofisaacrebirth.wiki.gg/wiki/Large_Zit
+503,Little Horn (Item),passive,in,adds,Chance of tears that summon Big Horn's hand,https://bindingofisaacrebirth.wiki.gg/wiki/Little_Horn_(Item)
+504,Brown Nugget,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Brown_Nugget
+505,Poke Go,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Poke_Go
+506,Backstabber,passive,in,adds,Hits on the back of enemies deal double damage and cause bleeding,https://bindingofisaacrebirth.wiki.gg/wiki/Backstabber
+507,Sharp Straw,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Sharp_Straw
+508,Mom's Razor,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Mom's_Razor
+509,Bloodshot Eye,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Bloodshot_Eye
+510,Delirious,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Delirious
+511,Angry Fly,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Angry_Fly
+512,Black Hole,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Black_Hole
+513,Bozo,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Bozo
+514,Broken Modem,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Broken_Modem
+515,Mystery Gift,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Mystery_Gift
+516,Sprinkler,activated,active,,Active: sprinkler that fires tears,https://bindingofisaacrebirth.wiki.gg/wiki/Sprinkler
+517,Fast Bombs,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Fast_Bombs
+518,Buddy in a Box,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Buddy_in_a_Box
+519,Lil Delirium,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Lil_Delirium
+520,Jumper Cables,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Jumper_Cables
+521,Coupon,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Coupon
+522,Telekinesis,activated,active,,Active: catches and throws back enemy shots,https://bindingofisaacrebirth.wiki.gg/wiki/Telekinesis
+523,Moving Box,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Moving_Box
+524,Technology Zero,passive,in,adds,Tears are connected by electricity,https://bindingofisaacrebirth.wiki.gg/wiki/Technology_Zero
+525,Leprosy,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Leprosy
+526,7 Seals,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/7_Seals
+527,Mr. ME!,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Mr._ME!
+528,Angelic Prism,passive,out,,Orbital familiar that splits tears passing through it,https://bindingofisaacrebirth.wiki.gg/wiki/Angelic_Prism
+529,Pop!,passive,in,adds,"Eyeball tears that bounce off each other. Wiki says ""replaces tears"", but treated as a tear effect",https://bindingofisaacrebirth.wiki.gg/wiki/Pop!
+530,Death's List,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Death's_List
+531,Haemolacria,passive,in,adds,"Arcing blood tears that burst into smaller tears. Wiki says ""turns tears into"", treated as a tear effect",https://bindingofisaacrebirth.wiki.gg/wiki/Haemolacria
+532,Lachryphagy,passive,in,adds,Tears slow down and burst into more tears,https://bindingofisaacrebirth.wiki.gg/wiki/Lachryphagy
+533,Trisagion,passive,in,replaces,Piercing blasts of light instead of tears (to verify: weapon or tear effect?),https://bindingofisaacrebirth.wiki.gg/wiki/Trisagion
+534,Schoolbag,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Schoolbag
+535,Blanket,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Blanket
+536,Sacrificial Altar,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Sacrificial_Altar
+537,Lil Spewer,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Lil_Spewer
+538,Marbles,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Marbles
+539,Mystery Egg,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Mystery_Egg
+540,Flat Stone,passive,in,adds,"Tears bounce on the floor, splashing damage",https://bindingofisaacrebirth.wiki.gg/wiki/Flat_Stone
+541,Marrow,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Marrow
+542,Slipped Rib,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Slipped_Rib
+543,Hallowed Ground,passive,out,,Familiar (poop with an aura),https://bindingofisaacrebirth.wiki.gg/wiki/Hallowed_Ground
+544,Pointy Rib,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Pointy_Rib
+545,Book of the Dead,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Book_of_the_Dead
+546,Dad's Ring,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Dad's_Ring
+547,Divorce Papers,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Divorce_Papers
+548,Jaw Bone,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Jaw_Bone
+549,Brittle Bones,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Brittle_Bones
+550,Broken Shovel,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Broken_Shovel
+552,Mom's Shovel,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Mom's_Shovel
+553,Mucormycosis,passive,in,adds,Chance of sticky spore tears that explode into more spores,https://bindingofisaacrebirth.wiki.gg/wiki/Mucormycosis
+554,2Spooky,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/2Spooky
+555,Golden Razor,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Golden_Razor
+556,Sulfur,activated,active,,Active: Brimstone for the room,https://bindingofisaacrebirth.wiki.gg/wiki/Sulfur
+557,Fortune Cookie,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Fortune_Cookie
+558,Eye Sore,passive,in,multiplies,Chance to fire 1-3 extra tears in random directions,https://bindingofisaacrebirth.wiki.gg/wiki/Eye_Sore
+559,120 Volt,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/120_Volt
+560,It Hurts,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/It_Hurts
+561,Almond Milk,passive,in,firing,Much faster fire rate; each tear gets a random worm effect,https://bindingofisaacrebirth.wiki.gg/wiki/Almond_Milk
+562,Rock Bottom,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Rock_Bottom
+563,Nancy Bombs,passive,conditional,,Bomb modifier (random bomb effects): only changes the attack with bomb weapons,https://bindingofisaacrebirth.wiki.gg/wiki/Nancy_Bombs
+564,A Bar of Soap,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/A_Bar_of_Soap
+565,Blood Puppy,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Blood_Puppy
+566,Dream Catcher,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Dream_Catcher
+567,Paschal Candle,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Paschal_Candle
+568,Divine Intervention,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Divine_Intervention
+569,Blood Oath,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Blood_Oath
+570,Playdough Cookie,passive,in,adds,Each tear gets a random colour-coded effect,https://bindingofisaacrebirth.wiki.gg/wiki/Playdough_Cookie
+571,Orphan Socks,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Orphan_Socks
+572,Eye of the Occult,passive,in,adds,Tears move in the direction Isaac is firing and stay in place otherwise,https://bindingofisaacrebirth.wiki.gg/wiki/Eye_of_the_Occult
+573,Immaculate Heart,passive,in,adds,Frequently fires extra spectral tears that orbit Isaac,https://bindingofisaacrebirth.wiki.gg/wiki/Immaculate_Heart
+574,Monstrance,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Monstrance
+575,The Intruder,passive,out,,Familiar,https://bindingofisaacrebirth.wiki.gg/wiki/The_Intruder
+576,Dirty Mind,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Dirty_Mind
+577,Damocles,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Damocles
+578,Free Lemonade,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Free_Lemonade
+579,Spirit Sword,passive,in,replaces,Sword swing instead of tears,https://bindingofisaacrebirth.wiki.gg/wiki/Spirit_Sword
+580,Red Key,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Red_Key
+581,Psy Fly,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Psy_Fly
+582,Wavy Cap,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Wavy_Cap
+583,Rocket in a Jar,passive,conditional,,Bomb modifier (rockets): only changes the attack with bomb weapons,https://bindingofisaacrebirth.wiki.gg/wiki/Rocket_in_a_Jar
+584,Book of Virtues,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Book_of_Virtues
+585,Alabaster Box,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Alabaster_Box
+586,The Stairway,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/The_Stairway
+588,Sol,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Sol
+589,Luna,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Luna
+590,Mercurius,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Mercurius
+591,Venus,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Venus
+592,Terra,passive,in,adds,Rock tears with extra knockback and random damage,https://bindingofisaacrebirth.wiki.gg/wiki/Terra
+593,Mars,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Mars
+594,Jupiter,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Jupiter
+595,Saturnus,passive,out,,Orbiting tears created when entering a room; not the main attack,https://bindingofisaacrebirth.wiki.gg/wiki/Saturnus
+596,Uranus,passive,in,adds,Icicle tears that freeze enemies on kill,https://bindingofisaacrebirth.wiki.gg/wiki/Uranus
+597,Neptunus,passive,in,firing,"Stores tears while not firing, then releases them rapidly",https://bindingofisaacrebirth.wiki.gg/wiki/Neptunus
+598,Pluto,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Pluto
+599,Voodoo Head,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Voodoo_Head
+600,Eye Drops,passive,out,,Only fire rate (left eye),https://bindingofisaacrebirth.wiki.gg/wiki/Eye_Drops
+601,Act of Contrition,passive,in,adds,Chance of tears that create pulling rifts,https://bindingofisaacrebirth.wiki.gg/wiki/Act_of_Contrition
+602,Member Card,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Member_Card
+603,Battery Pack,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Battery_Pack
+604,Mom's Bracelet,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Mom's_Bracelet
+605,The Scooper,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/The_Scooper
+606,Ocular Rift,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Ocular_Rift
+607,Boiled Baby,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Boiled_Baby
+608,Freezer Baby,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Freezer_Baby
+609,Eternal D6,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Eternal_D6
+610,Bird Cage,passive,in,adds,Chance to fire flames alongside tears,https://bindingofisaacrebirth.wiki.gg/wiki/Bird_Cage
+611,Larynx,activated,in,adds,Chance of magnetizing tears,https://bindingofisaacrebirth.wiki.gg/wiki/Larynx
+612,Lost Soul,passive,in,adds,Chance of bait tears,https://bindingofisaacrebirth.wiki.gg/wiki/Lost_Soul
+614,Blood Bombs,passive,conditional,,Bomb modifier (creep): only changes the attack with bomb weapons,https://bindingofisaacrebirth.wiki.gg/wiki/Blood_Bombs
+615,Lil Dumpy,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Lil_Dumpy
+616,Bird's Eye,passive,active,,Active: throwable key,https://bindingofisaacrebirth.wiki.gg/wiki/Bird's_Eye
+617,Lodestone,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Lodestone
+618,Rotten Tomato,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Rotten_Tomato
+619,Birthright,passive,out,,Effect depends on the character,https://bindingofisaacrebirth.wiki.gg/wiki/Birthright
+621,Red Stew,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Red_Stew
+622,Genesis,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Genesis
+623,Sharp Key,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Sharp_Key
+624,Booster Pack (Item),passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Booster_Pack_(Item)
+625,Mega Mush,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Mega_Mush
+626,Knife Piece 1,passive,out,,Familiar,https://bindingofisaacrebirth.wiki.gg/wiki/Knife_Piece_1
+627,Knife Piece 2,passive,out,,Familiar,https://bindingofisaacrebirth.wiki.gg/wiki/Knife_Piece_2
+628,Death Certificate,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Death_Certificate
+629,Bot Fly,passive,in,adds,Chance of knockback fist tears,https://bindingofisaacrebirth.wiki.gg/wiki/Bot_Fly
+631,Meat Cleaver,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Meat_Cleaver
+632,Evil Charm,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Evil_Charm
+633,Dogma (Item),passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Dogma_(Item)
+634,Purgatory,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Purgatory
+635,Stitches,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Stitches
+636,R Key,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/R_Key
+637,Knockout Drops,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Knockout_Drops
+638,Eraser,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Eraser
+639,Yuck Heart,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Yuck_Heart
+640,Urn of Souls,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Urn_of_Souls
+641,Akeldama,passive,out,,Trail of tears dragged behind Isaac; not the main attack,https://bindingofisaacrebirth.wiki.gg/wiki/Akeldama
+642,Magic Skin,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Magic_Skin
+643,Revelation,passive,in,adds,"After firing for a while, releasing fire shoots a holy laser",https://bindingofisaacrebirth.wiki.gg/wiki/Revelation
+644,Consolation Prize,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Consolation_Prize
+645,Tinytoma,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Tinytoma
+646,Brimstone Bombs,passive,conditional,,Bomb modifier (bombs fire lasers): only changes the attack with bomb weapons,https://bindingofisaacrebirth.wiki.gg/wiki/Brimstone_Bombs
+647,4.5 Volt,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/4.5_Volt
+649,Fruity Plum,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Fruity_Plum
+650,Plum Flute,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Plum_Flute
+651,Star of Bethlehem,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Star_of_Bethlehem
+652,Cube Baby,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Cube_Baby
+653,Vade Retro,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Vade_Retro
+654,False PHD,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/False_PHD
+655,Spin to Win,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Spin_to_Win
+657,Vasculitis,passive,out,,"Tears burst from killed enemies; triggered by kills, not by Isaac's tears",https://bindingofisaacrebirth.wiki.gg/wiki/Vasculitis
+658,Giant Cell,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Giant_Cell
+659,Tropicamide,passive,out,,Only range and tear size,https://bindingofisaacrebirth.wiki.gg/wiki/Tropicamide
+660,Card Reading,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Card_Reading
+661,Quints,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Quints
+663,Tooth and Nail,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Tooth_and_Nail
+664,Binge Eater,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Binge_Eater
+665,Guppy's Eye,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Guppy's_Eye
+667,Strawman,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Strawman
+668,Dad's Note,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Dad's_Note
+669,Sausage,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Sausage
+670,Options?,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Options?
+671,Candy Heart,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Candy_Heart
+672,A Pound of Flesh,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/A_Pound_of_Flesh
+673,Redemption,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Redemption
+674,Spirit Shackles,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Spirit_Shackles
+675,Cracked Orb,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Cracked_Orb
+676,Empty Heart,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Empty_Heart
+677,Astral Projection,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Astral_Projection
+678,C Section,passive,in,replaces,"Charged fetus shots (homing, piercing, spectral) instead of tears",https://bindingofisaacrebirth.wiki.gg/wiki/C_Section
+679,Lil Abaddon,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Lil_Abaddon
+680,Montezuma's Revenge,passive,in,adds,"After firing for a while, releasing fire shoots a short brown laser backwards",https://bindingofisaacrebirth.wiki.gg/wiki/Montezuma's_Revenge
+681,Lil Portal,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Lil_Portal
+682,Worm Friend,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Worm_Friend
+683,Bone Spurs,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Bone_Spurs
+684,Hungry Soul,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Hungry_Soul
+685,Jar of Wisps,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Jar_of_Wisps
+686,Soul Locket,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Soul_Locket
+687,Friend Finder,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Friend_Finder
+688,Inner Child,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Inner_Child
+689,Glitched Crown,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Glitched_Crown
+690,Belly Jelly,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Belly_Jelly
+691,Sacred Orb,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Sacred_Orb
+692,Sanguine Bond,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Sanguine_Bond
+693,The Swarm,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/The_Swarm
+694,Heartbreak,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Heartbreak
+695,Bloody Gust,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Bloody_Gust
+696,Salvation,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Salvation
+697,Vanishing Twin,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Vanishing_Twin
+698,Twisted Pair,passive,out,,Familiar,https://bindingofisaacrebirth.wiki.gg/wiki/Twisted_Pair
+699,Azazel's Rage,passive,in,adds,"After clearing 4 rooms, fires a big Brimstone laser once",https://bindingofisaacrebirth.wiki.gg/wiki/Azazel's_Rage
+700,Echo Chamber,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Echo_Chamber
+701,Isaac's Tomb,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Isaac's_Tomb
+702,Vengeful Spirit,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Vengeful_Spirit
+703,Esau Jr.,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Esau_Jr.
+704,Berserk!,activated,active,,Active: melee jawbone instead of tears for a few seconds,https://bindingofisaacrebirth.wiki.gg/wiki/Berserk!
+705,Dark Arts,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Dark_Arts
+706,Abyss,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Abyss
+707,Supper,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Supper
+708,Stapler,passive,in,multiplies,No more tears from the left eye,https://bindingofisaacrebirth.wiki.gg/wiki/Stapler
+709,Suplex!,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Suplex!
+710,Bag of Crafting,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Bag_of_Crafting
+711,Flip,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Flip
+712,Lemegeton,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Lemegeton
+713,Sumptorium,activated,active,,Active: creates blood clot familiars,https://bindingofisaacrebirth.wiki.gg/wiki/Sumptorium
+714,Recall,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Recall
+715,Hold,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Hold
+716,Keeper's Sack,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Keeper's_Sack
+717,Keeper's Kin,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Keeper's_Kin
+719,Keeper's Box,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Keeper's_Box
+720,Everything Jar,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Everything_Jar
+721,TMTRAINER,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/TMTRAINER
+722,Anima Sola,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Anima_Sola
+723,Spindown Dice,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Spindown_Dice
+724,Hypercoagulation,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Hypercoagulation
+725,IBS,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/IBS
+726,Hemoptysis,passive,out,,Double-tap sneeze attack; does not change the tears,https://bindingofisaacrebirth.wiki.gg/wiki/Hemoptysis
+727,Ghost Bombs,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Ghost_Bombs
+728,Gello,activated,active,,Active: familiar that fires Isaac's tears,https://bindingofisaacrebirth.wiki.gg/wiki/Gello
+729,Decap Attack,activated,active,,Active: thrown head shoots instead of Isaac,https://bindingofisaacrebirth.wiki.gg/wiki/Decap_Attack
+730,Glass Eye,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Glass_Eye
+731,Stye,passive,out,,Only stats (right eye),https://bindingofisaacrebirth.wiki.gg/wiki/Stye
+732,Mom's Ring,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Mom's_Ring
