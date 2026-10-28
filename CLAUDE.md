@@ -1,23 +1,32 @@
 # TBOI Tears Test
 
-Sito web statico che mostra come cambia l'attacco di Isaac (The Binding of Isaac) combinando più oggetti, con un'anteprima animata dello sparo.
+A free, ad-free static website for The Binding of Isaac community. Players select items and see how Isaac's main attack changes when items are combined: which item replaces the weapon, which adds an effect, which changes the number of shots. It includes a live animated preview of Isaac shooting.
 
-## Regole del progetto
+All code, data, documentation and UI text are in English.
 
-- **Mai inventare sinergie.** Ogni regola o interazione deve avere una `fonte`: link alla pagina della wiki (https://bindingofisaacrebirth.wiki.gg) e frase da cui è stata ricavata.
-- **Versione di riferimento: Repentance+.** Nella wiki i tag `{{Dlc|...}}` indicano la versione: scartare le informazioni valide solo per versioni precedenti.
-- Se due pagine della wiki si contraddicono, salvare entrambe le versioni e segnalare il conflitto nel sito, senza sceglierne una.
-- Valori numerici (frame, velocità, angoli) usati nell'animazione: presi dalla wiki quando ci sono; se sono stimati, marcarli come `stimato`.
+## Project rules
 
-## Oggetti inclusi
+- **Never invent synergies.** Every rule or interaction must have a `source`: a link to the wiki page (https://bindingofisaacrebirth.wiki.gg) and the sentence it was derived from.
+- **Target version: Repentance+.** On the wiki, `{{Dlc|...}}` tags mark which game version a sentence applies to. Discard information that only applies to older versions.
+- If two wiki pages contradict each other, keep both versions and flag the conflict on the site. Do not pick one.
+- Numeric values used by the animation (frames, speeds, angles) come from the wiki when available. Mark any estimated value as `estimated`.
+- Wiki categories are incomplete (e.g. "Tear-modifying items" lists only 9 items). Do not rely on them to decide which items are in scope; read each item's Effects section instead.
+- Game sprites and assets must not be copied into the repository. Graphics are original, "Isaac-style" drawings.
 
-- Dentro: oggetti che cambiano **tipo, comportamento, effetto o numero** dei colpi dell'attacco principale (incluse armi che sostituiscono le lacrime, es. Brimstone, Mom's Knife). Inclusi anche oggetti "di statistica" che cambiano il comportamento dell'attacco (es. Soy Milk, Chocolate Milk).
-- Fuori: oggetti che cambiano solo valori numerici (danno, fire rate, gittata, shot speed), cuori, consumabili, oggetti attivi non legati allo sparo.
-- Fuori: famigli, anche quelli che copiano le lacrime (Incubus, Twisted Pair, ...).
+## Item scope
 
-## Categorie di effetto
+- In: items that change the **type, behavior, effect or number** of shots of the main attack, including weapons that replace tears (Brimstone, Mom's Knife, ...). Stat items that change attack behavior are also in (Soy Milk, Chocolate Milk, ...).
+- Out: items that only change numeric stats (damage, fire rate, range, shot speed), hearts, consumables, active items unrelated to shooting.
+- Out: familiars, including those that copy Isaac's tears (Incubus, Twisted Pair, ...).
 
-- `sostituisce`: cambia l'arma (Brimstone, Mom's Knife, Dr. Fetus, Tech X, ...)
-- `aggiunge`: aggiunge un effetto alle lacrime (homing, piercing, veleno, split, ...)
-- `moltiplica`: cambia il numero di colpi (20/20, Inner Eye, Mutant Spider, ...)
-- `eccezione`: interazione specifica tra due o più oggetti (dalle sezioni Synergies/Interactions della wiki)
+## Effect categories
+
+- `replaces`: changes the weapon (Brimstone, Mom's Knife, Dr. Fetus, Tech X, ...)
+- `adds`: adds an effect to the attack (homing, piercing, poison, split, ...)
+- `multiplies`: changes the number of shots (20/20, The Inner Eye, Mutant Spider, ...)
+- `exception`: a specific interaction between two or more items (from the wiki's Synergies/Interactions sections)
+
+## Licensing
+
+- Code: MIT (see `LICENSE`).
+- Data derived from the wiki: CC BY-SA 4.0, with attribution to the wiki (see `DATA_LICENSE.md`).
