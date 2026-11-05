@@ -325,7 +325,7 @@ id,name,type,scope,category,note,source
 327,The Polaroid,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/The_Polaroid
 328,The Negative,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/The_Negative
 329,The Ludovico Technique,passive,in,replaces,One controllable floating tear instead of normal tears,https://bindingofisaacrebirth.wiki.gg/wiki/The_Ludovico_Technique
-330,Soy Milk,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Soy_Milk
+330,Soy Milk,passive,in,firing,"Very high fire rate with small, weak tears; changes how charged weapons fire",https://bindingofisaacrebirth.wiki.gg/wiki/Soy_Milk
 331,Godhead,passive,in,adds,Homing tears with a damaging aura,https://bindingofisaacrebirth.wiki.gg/wiki/Godhead
 332,Lazarus' Rags,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Lazarus'_Rags
 333,The Mind,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/The_Mind
@@ -427,7 +427,7 @@ id,name,type,scope,category,note,source
 429,Head of the Keeper,passive,in,adds,Coin tears; chance to drop a penny,https://bindingofisaacrebirth.wiki.gg/wiki/Head_of_the_Keeper
 430,Papa Fly,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Papa_Fly
 431,Multidimensional Baby,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Multidimensional_Baby
-432,Glitter Bombs,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Glitter_Bombs
+432,Glitter Bombs,passive,conditional,,Bomb modifier (bombs drop pickups): only changes the attack with bomb weapons,https://bindingofisaacrebirth.wiki.gg/wiki/Glitter_Bombs
 433,My Shadow,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/My_Shadow
 434,Jar of Flies,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Jar_of_Flies
 435,Lil Loki,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Lil_Loki
@@ -713,7 +713,7 @@ id,name,type,scope,category,note,source
 724,Hypercoagulation,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Hypercoagulation
 725,IBS,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/IBS
 726,Hemoptysis,passive,out,,Double-tap sneeze attack; does not change the tears,https://bindingofisaacrebirth.wiki.gg/wiki/Hemoptysis
-727,Ghost Bombs,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Ghost_Bombs
+727,Ghost Bombs,passive,conditional,,Bomb modifier (bombs release ghosts): only changes the attack with bomb weapons,https://bindingofisaacrebirth.wiki.gg/wiki/Ghost_Bombs
 728,Gello,activated,active,,Active: familiar that fires Isaac's tears,https://bindingofisaacrebirth.wiki.gg/wiki/Gello
 729,Decap Attack,activated,active,,Active: thrown head shoots instead of Isaac,https://bindingofisaacrebirth.wiki.gg/wiki/Decap_Attack
 730,Glass Eye,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Glass_Eye
