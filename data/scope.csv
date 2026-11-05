@@ -248,10 +248,10 @@ id,name,type,scope,category,note,source
 250,BOGO Bombs,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/BOGO_Bombs
 251,Starter Deck,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Starter_Deck
 252,Little Baggy,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Little_Baggy
-253,Magic Scab,passive,conditional,,Bomb modifier (fire): only changes the attack with bomb weapons,https://bindingofisaacrebirth.wiki.gg/wiki/Magic_Scab
+253,Magic Scab,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Magic_Scab
 254,Blood Clot,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Blood_Clot
 255,Screw,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Screw
-256,Hot Bombs,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Hot_Bombs
+256,Hot Bombs,passive,conditional,,Bomb modifier (fire): only changes the attack with bomb weapons,https://bindingofisaacrebirth.wiki.gg/wiki/Hot_Bombs
 257,Fire Mind,passive,in,adds,Burning tears; chance to explode on impact,https://bindingofisaacrebirth.wiki.gg/wiki/Fire_Mind
 258,Missing No.,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Missing_No.
 259,Dark Matter,passive,in,adds,Chance of fear tears,https://bindingofisaacrebirth.wiki.gg/wiki/Dark_Matter
@@ -385,10 +385,10 @@ id,name,type,scope,category,note,source
 387,Censer,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Censer
 388,Key Bum,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Key_Bum
 389,Rune Bag,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Rune_Bag
-390,Seraphim,passive,in,adds,Chance of poison tears,https://bindingofisaacrebirth.wiki.gg/wiki/Seraphim
+390,Seraphim,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Seraphim
 391,Betrayal,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Betrayal
 392,Zodiac,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Zodiac
-393,Serpent's Kiss,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Serpent's_Kiss
+393,Serpent's Kiss,passive,in,adds,Chance of poison tears,https://bindingofisaacrebirth.wiki.gg/wiki/Serpent's_Kiss
 394,Marked,passive,in,firing,Isaac fires automatically at a controllable crosshair,https://bindingofisaacrebirth.wiki.gg/wiki/Marked
 395,Tech X,passive,in,replaces,Laser rings instead of tears,https://bindingofisaacrebirth.wiki.gg/wiki/Tech_X
 396,Ventricle Razor,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Ventricle_Razor
@@ -595,40 +595,40 @@ id,name,type,scope,category,note,source
 598,Pluto,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Pluto
 599,Voodoo Head,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Voodoo_Head
 600,Eye Drops,passive,out,,Only fire rate (left eye),https://bindingofisaacrebirth.wiki.gg/wiki/Eye_Drops
-601,Act of Contrition,passive,in,adds,Chance of tears that create pulling rifts,https://bindingofisaacrebirth.wiki.gg/wiki/Act_of_Contrition
+601,Act of Contrition,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Act_of_Contrition
 602,Member Card,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Member_Card
 603,Battery Pack,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Battery_Pack
 604,Mom's Bracelet,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Mom's_Bracelet
 605,The Scooper,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/The_Scooper
-606,Ocular Rift,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Ocular_Rift
+606,Ocular Rift,passive,in,adds,Chance of tears that create pulling rifts,https://bindingofisaacrebirth.wiki.gg/wiki/Ocular_Rift
 607,Boiled Baby,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Boiled_Baby
 608,Freezer Baby,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Freezer_Baby
 609,Eternal D6,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Eternal_D6
-610,Bird Cage,passive,in,adds,Chance to fire flames alongside tears,https://bindingofisaacrebirth.wiki.gg/wiki/Bird_Cage
-611,Larynx,activated,in,adds,Chance of magnetizing tears,https://bindingofisaacrebirth.wiki.gg/wiki/Larynx
-612,Lost Soul,passive,in,adds,Chance of bait tears,https://bindingofisaacrebirth.wiki.gg/wiki/Lost_Soul
+610,Bird Cage,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Bird_Cage
+611,Larynx,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Larynx
+612,Lost Soul,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Lost_Soul
 614,Blood Bombs,passive,conditional,,Bomb modifier (creep): only changes the attack with bomb weapons,https://bindingofisaacrebirth.wiki.gg/wiki/Blood_Bombs
 615,Lil Dumpy,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Lil_Dumpy
-616,Bird's Eye,passive,active,,Active: throwable key,https://bindingofisaacrebirth.wiki.gg/wiki/Bird's_Eye
-617,Lodestone,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Lodestone
-618,Rotten Tomato,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Rotten_Tomato
+616,Bird's Eye,passive,in,adds,Chance to fire flames alongside tears,https://bindingofisaacrebirth.wiki.gg/wiki/Bird's_Eye
+617,Lodestone,passive,in,adds,Chance of magnetizing tears,https://bindingofisaacrebirth.wiki.gg/wiki/Lodestone
+618,Rotten Tomato,passive,in,adds,Chance of bait tears,https://bindingofisaacrebirth.wiki.gg/wiki/Rotten_Tomato
 619,Birthright,passive,out,,Effect depends on the character,https://bindingofisaacrebirth.wiki.gg/wiki/Birthright
 621,Red Stew,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Red_Stew
 622,Genesis,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Genesis
-623,Sharp Key,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Sharp_Key
+623,Sharp Key,activated,active,,Active: throwable key,https://bindingofisaacrebirth.wiki.gg/wiki/Sharp_Key
 624,Booster Pack (Item),passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Booster_Pack_(Item)
 625,Mega Mush,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Mega_Mush
 626,Knife Piece 1,passive,out,,Familiar,https://bindingofisaacrebirth.wiki.gg/wiki/Knife_Piece_1
 627,Knife Piece 2,passive,out,,Familiar,https://bindingofisaacrebirth.wiki.gg/wiki/Knife_Piece_2
 628,Death Certificate,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Death_Certificate
-629,Bot Fly,passive,in,adds,Chance of knockback fist tears,https://bindingofisaacrebirth.wiki.gg/wiki/Bot_Fly
+629,Bot Fly,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Bot_Fly
 631,Meat Cleaver,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Meat_Cleaver
 632,Evil Charm,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Evil_Charm
 633,Dogma (Item),passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Dogma_(Item)
 634,Purgatory,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Purgatory
 635,Stitches,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Stitches
 636,R Key,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/R_Key
-637,Knockout Drops,passive,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Knockout_Drops
+637,Knockout Drops,passive,in,adds,Chance of knockback fist tears,https://bindingofisaacrebirth.wiki.gg/wiki/Knockout_Drops
 638,Eraser,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Eraser
 639,Yuck Heart,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Yuck_Heart
 640,Urn of Souls,activated,out,,No change to the attack found in the Effects section,https://bindingofisaacrebirth.wiki.gg/wiki/Urn_of_Souls

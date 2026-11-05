@@ -7,7 +7,8 @@ All code, data, documentation and UI text are in English.
 ## Project rules
 
 - **Never invent synergies.** Every rule or interaction must have a `source`: a link to the wiki page (https://bindingofisaacrebirth.wiki.gg) and the sentence it was derived from.
-- **Target version: Repentance+.** On the wiki, `{{Dlc|...}}` tags mark which game version a sentence applies to. Discard information that only applies to older versions.
+- **All game versions are supported**: Rebirth, Afterbirth, Afterbirth+, Repentance, Repentance+ (the default). Not every player owns every DLC, so the site lets the user pick the version they play. On the wiki, `{{Dlc|...}}` tags mark which versions a sentence applies to; every extracted bullet keeps its `versions` list. Never mix sentences from different versions in one answer.
+- Items exist only from the version that added them (infobox `dlc` field): hide items the selected version does not have.
 - If two wiki pages contradict each other, keep both versions and flag the conflict on the site. Do not pick one.
 - Numeric values used by the animation (frames, speeds, angles) come from the wiki when available. Mark any estimated value as `estimated`.
 - Wiki categories are incomplete (e.g. "Tear-modifying items" lists only 9 items). Do not rely on them to decide which items are in scope; read each item's Effects section instead.
@@ -41,7 +42,9 @@ All code, data, documentation and UI text are in English.
 ## Data pipeline
 
 1. `python3 scripts/fetch_wiki.py` downloads every collectible page to `data/raw/wiki_pages.json` (not committed).
-2. `python3 scripts/extract_items.py` builds `data/wiki_items.json`: infobox data plus the Effects, Synergies and Interactions sections, filtered to Repentance+.
+2. `python3 scripts/extract_items.py` builds `data/wiki_items.json`: infobox data plus the Effects, Synergies and Interactions sections. Each version is extracted separately and merged, so every item has `versions` and every bullet has the `versions` it applies to.
+
+Scope (`data/scope.csv`) was decided on the Repentance+ text.
 
 ## Licensing
 

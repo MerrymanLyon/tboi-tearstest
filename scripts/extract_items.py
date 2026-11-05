@@ -1,7 +1,8 @@
 """Extract structured item data from the downloaded wiki pages.
 
-Keeps only content that applies to Repentance+, based on the wiki's DLC codes
-(see https://bindingofisaacrebirth.wiki.gg/wiki/Template:Dlc).
+Every game version is extracted separately, based on the wiki's DLC codes
+(see https://bindingofisaacrebirth.wiki.gg/wiki/Template:Dlc), then merged:
+each bullet carries the list of versions it applies to.
 
 Input:  data/raw/wiki_pages.json (from fetch_wiki.py)
 Output: data/wiki_items.json
@@ -27,50 +28,64 @@ ENTITY_TEMPLATES = {"i", "c", "e", "t", "tf", "p", "card", "pill", "rune", "curs
 DLC_TOKEN = re.compile(r"(n?)(a\+|a|r\+|r)")
 DLC_TAG = re.compile(r"\{\{\s*dlc\s*\|\s*([anr+]+)\s*\}\}", re.I)
 
+# Game versions in release order, with the code the wiki uses for each.
+VERSIONS = ["rebirth", "afterbirth", "afterbirth+", "repentance", "repentance+"]
+VERSION_CODE = {"a": 1, "a+": 2, "r": 3, "r+": 4}
 
-def valid_in_rplus(code):
-    """A DLC code is a list of range boundaries; 'n' closes a range.
 
-    The range is still open in Repentance+ (the latest version) unless the
-    last boundary is a negated one, e.g. 'nr' (removed in Repentance) or
-    'anr+' (Afterbirth until Repentance+).
-    """
+def versions_of(code):
+    """The versions a DLC code covers. A code is a list of range boundaries:
+    a plain token opens a range at that version, an 'n' token closes it
+    there (exclusive). 'nr' = Rebirth to Afterbirth+, 'a+nr' = Afterbirth+
+    only, 'nrr+' = everything but Repentance."""
     code = (code or "").strip().lower()
-    if not code:
-        return True
     tokens = DLC_TOKEN.findall(code)
-    if not tokens or "".join(n + v for n, v in tokens) != code:
-        return True  # unknown code: keep, it is shown with its raw text anyway
-    return tokens[-1][0] != "n"
+    if not code or not tokens or "".join(n + v for n, v in tokens) != code:
+        return set(range(len(VERSIONS)))  # no or unknown code: applies everywhere
+    covered, start = set(), 0 if tokens[0][0] == "n" else None
+    for neg, v in tokens:
+        idx = VERSION_CODE[v]
+        if neg:
+            covered |= set(range(start if start is not None else 0, idx))
+            start = None
+        else:
+            start = idx
+    if start is not None:
+        covered |= set(range(start, len(VERSIONS)))
+    return covered
 
 
-def strip_dlc_blocks(text):
+def valid_in(code, version):
+    return version in versions_of(code)
+
+
+def strip_dlc_blocks(text, version):
     """Handle {{dlc+|code}} ... {{dlc-}} blocks, which can span several lines."""
     pattern = re.compile(r"\{\{\s*dlc\+\s*\|\s*([anr+]+)\s*\}\}(.*?)\{\{\s*dlc-\s*\}\}", re.I | re.S)
     while True:
-        new = pattern.sub(lambda m: m.group(2) if valid_in_rplus(m.group(1)) else "", text)
+        new = pattern.sub(lambda m: m.group(2) if valid_in(m.group(1), version) else "", text)
         if new == text:
             return text
         text = new
 
 
-def strip_dlc_inline(text):
+def strip_dlc_inline(text, version):
     """Drop text that follows an invalid {{dlc|code}} tag, up to the next tag.
 
     Also handles {{dlc|code|content}}. Returns (text, starts_invalid).
     """
     text = re.sub(
         r"\{\{\s*dlc\s*\|\s*([anr+]+)\s*\|([^{}]*)\}\}",
-        lambda m: m.group(2) if valid_in_rplus(m.group(1)) else "",
+        lambda m: m.group(2) if valid_in(m.group(1), version) else "",
         text,
         flags=re.I,
     )
     parts = DLC_TAG.split(text)
     # parts = [before, code1, after1, code2, after2, ...]
-    starts_invalid = not parts[0].strip() and len(parts) > 1 and not valid_in_rplus(parts[1])
+    starts_invalid = not parts[0].strip() and len(parts) > 1 and not valid_in(parts[1], version)
     kept = [parts[0]]
     for code, segment in zip(parts[1::2], parts[2::2]):
-        if valid_in_rplus(code):
+        if valid_in(code, version):
             kept.append(segment)
     return "".join(kept), starts_invalid
 
@@ -135,38 +150,54 @@ def parse_bullets(section_text):
     return roots
 
 
-def filter_node(node, is_synergy, inherited_heads=None):
-    """Return Repentance+ nodes for this bullet (a list: the bullet itself, or
-    its valid children promoted when the bullet itself is invalid)."""
+def filter_node(node, is_synergy, version, inherited_heads=None):
+    """Return this version's nodes for this bullet (a list: the bullet itself,
+    or its valid children promoted when the bullet itself is invalid)."""
     raw = node["raw"]
-    text, starts_invalid = strip_dlc_inline(raw)
+    text, starts_invalid = strip_dlc_inline(raw, version)
     heads = head_entities(text) if is_synergy else []
     if is_synergy and heads:
-        valid_heads = [h for h in heads if valid_in_rplus(h["dlc"])]
+        valid_heads = [h for h in heads if valid_in(h["dlc"], version)]
         heads_invalid = not valid_heads
     else:
         valid_heads, heads_invalid = [], False
 
     if starts_invalid or heads_invalid:
-        # The bullet only applies to older versions. Keep children that are
-        # explicitly tagged as valid for Repentance+ (e.g. "** {{dlc|r}} ...").
+        # The bullet does not apply to this version. Keep children that are
+        # explicitly tagged as valid for it (e.g. "** {{dlc|r}} ...").
         promoted = []
         for child in node["children"]:
             m = DLC_TAG.match(child["raw"].strip())
-            if m and valid_in_rplus(m.group(1)):
-                promoted += filter_node(child, is_synergy, heads or inherited_heads)
+            if m and valid_in(m.group(1), version):
+                promoted += filter_node(child, is_synergy, version, heads or inherited_heads)
         return promoted
 
     children = []
     for child in node["children"]:
-        children += filter_node(child, is_synergy, valid_heads or inherited_heads)
-    out = {"text": to_plain(text), "raw": raw}
+        children += filter_node(child, is_synergy, version, valid_heads or inherited_heads)
+    out = {"text": to_plain(text)}
     if is_synergy:
         out["with"] = [h["name"] for h in (valid_heads or inherited_heads or [])]
     out["children"] = children
     if not out["text"] and not children:
         return []
     return [out]
+
+
+def merge(merged, nodes, version):
+    """Merge one version's node list into the merged tree: identical bullets
+    (same text and same items) share one node listing all their versions."""
+    for n in nodes:
+        key = (n["text"], tuple(n.get("with", [])))
+        match = next((m for m in merged if (m["text"], tuple(m.get("with", []))) == key), None)
+        if not match:
+            match = {k: v for k, v in n.items() if k != "children"}
+            match["versions"], match["children"] = [], []
+            merged.append(match)
+        if VERSIONS[version] not in match["versions"]:
+            match["versions"].append(VERSIONS[version])
+        merge(match["children"], n["children"], version)
+    return merged
 
 
 def sections(wikitext):
@@ -196,8 +227,6 @@ def extract(page):
     box = infobox(page["wikitext"])
     if not box:
         return None
-    text = strip_dlc_blocks(page["wikitext"])
-    secs = sections(text)
     item = {
         "id": int(box["id"]) if re.fullmatch(r"-?\d+", box.get("id", "")) else box.get("id"),
         "name": page["title"],
@@ -205,16 +234,20 @@ def extract(page):
         "quality": box.get("quality"),
         "tags": box.get("tags", "").split(),
         "dlc": box.get("dlc", ""),
-        "available_in_rplus": valid_in_rplus(box.get("dlc", "")),
+        "versions": [VERSIONS[v] for v in sorted(versions_of(box.get("dlc", "")))],
         "description": to_plain(box.get("description", "")),
         "source": WIKI + page["title"].replace(" ", "_"),
         "revid": page["revid"],
     }
     for key in SECTION_NAMES:
-        nodes = []
-        for node in parse_bullets(secs.get(key, "")):
-            nodes += filter_node(node, key != "effects")
-        item[key] = nodes
+        item[key] = []
+    for version in versions_of(box.get("dlc", "")):
+        secs = sections(strip_dlc_blocks(page["wikitext"], version))
+        for key in SECTION_NAMES:
+            nodes = []
+            for node in parse_bullets(secs.get(key, "")):
+                nodes += filter_node(node, key != "effects", version)
+            merge(item[key], nodes, version)
     return item
 
 
@@ -224,7 +257,7 @@ def main():
     items.sort(key=lambda i: (i["id"] if isinstance(i["id"], int) else 10**6, i["name"]))
     OUT.write_text(json.dumps(items, ensure_ascii=False, indent=1))
     print(f"Extracted {len(items)} items "
-          f"({sum(not i['available_in_rplus'] for i in items)} not available in Repentance+) -> {OUT}")
+          f"({sum('repentance+' not in i['versions'] for i in items)} not available in Repentance+) -> {OUT}")
 
 
 if __name__ == "__main__":
